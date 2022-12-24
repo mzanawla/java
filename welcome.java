@@ -1,5 +1,5 @@
-class Simple {
-public static void main(String args[]){
-System.out.println(" welcome to clod knowledge");
+public class TestApplication {
+  public static void main(String[] args) {
+    System.out.println("Enter a password: ");
 }
 }
